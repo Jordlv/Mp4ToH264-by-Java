@@ -1,0 +1,1 @@
+include ':app', ':lib', ':lib2', ':lib3', ':filetohex', ':lib4', ':objectlib5', ':objectlib6'
